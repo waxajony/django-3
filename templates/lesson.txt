@@ -1,0 +1,4 @@
+PYTHON CODE
+Python OOP
+PostgreSQL
+Telegram bot
